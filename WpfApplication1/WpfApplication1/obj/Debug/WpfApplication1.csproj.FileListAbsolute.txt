@@ -1,0 +1,15 @@
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\EFREI\M1\IS appli\tp2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
