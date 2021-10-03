@@ -1,6 +1,6 @@
 # ISA_TP2
 ## _Integration de Système Application_
-## _TP2 by Adrien PLOT, Kayran LAU, Elisa GERLACH_
+## _TP2 by Adrien PLOT, Kyran LAU, Elisa GERLACH_
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Adrien-github1/ISA_TP2)
